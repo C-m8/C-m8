@@ -5,6 +5,6 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Nightspeller/Weakling/pull/13) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
-2. ❗️ Opened issue [#12](https://github.com/Nightspeller/Weakling/issues/12) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
+1. 💪 Opened PR [#14](https://github.com/Nightspeller/Weakling/pull/14) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
+2. 💪 Opened PR [#13](https://github.com/Nightspeller/Weakling/pull/13) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
 <!--END_SECTION:activity-->
