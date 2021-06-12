@@ -7,7 +7,4 @@
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#42](https://github.com/Nightspeller/Weakling/issues/42) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
 2. 💪 Opened PR [#26](https://github.com/Nightspeller/Weakling/pull/26) in [Nightspeller/Weakling](https://github.com/Nightspeller/Weakling)
-
-
-
 <!--END_SECTION:activity-->
